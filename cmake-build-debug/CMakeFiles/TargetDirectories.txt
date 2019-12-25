@@ -1,0 +1,3 @@
+C:/Users/Mustafa Khaled/Desktop/xo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mustafa Khaled/Desktop/xo/cmake-build-debug/CMakeFiles/xo.dir
+C:/Users/Mustafa Khaled/Desktop/xo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
